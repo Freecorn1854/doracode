@@ -1,3 +1,3 @@
-cd C:\Users\Freecorn1854\Downloads\Dora-master
+cd C:\Users\Freecorn1854\Documents\GitHub\doracode
 cls
 lime test windows -debug
